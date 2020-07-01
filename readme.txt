@@ -1,0 +1,1 @@
+A Codecademy mini-project on classes and inheritance.
